@@ -2,10 +2,10 @@ source "https://rubygems.org"
 
 group :development do
   gem 'rake', '>= 12.3.3'
-  gem 'jekyll', '~> 0.12'
+  gem 'jekyll', '>= 3.6.3'
   gem 'rdiscount', '~> 2.0.7'
   gem 'pygments.rb', '~> 0.3.4'
-  gem 'RedCloth', '~> 4.2.9'
+  gem 'redcloth', '>= 4.3.0'
   gem 'haml', '~> 5.0.0'
   gem 'compass', '~> 0.12.2'
   gem 'sass', '~> 3.2'
